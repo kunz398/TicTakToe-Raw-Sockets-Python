@@ -27,3 +27,11 @@ a variable called history so every move
 gets recorded in the history array and If a move is present in the history array the computer will choose another move.
 
 *I also made a supplementary 2D array for calculating where in the board a player has made a move and so this gave me a way to calculate who would win
+
+<center><u><b>How to run</b></u></center>
+1) open up <i>rawsockets.py</i> and run it it will say 
+<i>Serving HTTP on port 8888</i>
+2) Open up Browser and type <i>localhost:8888</i> 
+3) you will see a display like so:
+<img src="https://github.com/kunz398/TicTakToe-Raw-Sockets-Python/blob/master/readmefiles/5.png" />
+
